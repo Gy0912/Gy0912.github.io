@@ -1,12 +1,17 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: Welcome!
+date: 2025-02-22 18:00:00 +0800
+categories: [Blog]
+tags: [Intro]     # TAG names should always be lowercase
+author: GuYi
+description: Short intro of this website.
 ---
 
-# Welcome
+# Welcome!
+**Hello world**, this is my first Jekyll blog post on my personal website.
 
-**Hello world**, this is my first Jekyll blog post.
 
-I will add more info in the following period of time, and I hope you like this website.
+I will add my personal info in order of time at a later time.
 
-If you want to use the website template, please just click **Chirpy** in the lower right part of the page.
+
+If anyone wants to make a website like this, you can simply click **Chirpy** in the lower right part of the page. For more info of the website, please follow the introduction in the github(which you can reach simply by click).
