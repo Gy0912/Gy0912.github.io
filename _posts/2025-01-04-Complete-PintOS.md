@@ -19,3 +19,5 @@ I completed this project with my friend SenLi, and the following table is the sc
 | Project 2 |       92.5        |    All passed     | Nov.16, 2024 |
 | Project 3 |       91.7        |     2 failed      | Dec.07, 2024 |
 | Project 4 |       88.44       |     2 failed      | Jan.04, 2025 |
+
+Unfortunately, our source code was saved on the host and platform established by the school. At the end of the semester, due to negligence, we forgot to save it locally. After consulting the teacher, we confirmed that the code could not be recovered, so we could not provide the github repo. However, the course scores can still prove that we have indeed completed this project perfectly.
