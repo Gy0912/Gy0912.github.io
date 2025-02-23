@@ -3,7 +3,7 @@ title: Start my research.
 date: 2024-11-03 17:00:00 +0800
 categories: [Blog]
 tags: [Research]     # TAG names should always be lowercase
-author: <Cody_G>
+author: Cody_G
 description: Personal updates.
 ---
 

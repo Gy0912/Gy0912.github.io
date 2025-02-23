@@ -3,7 +3,7 @@ title: Complete simple PVZ.
 date: 2023-06-30 20:00:00 +0800
 categories: [Blog]
 tags: [Proj, Finished]     # TAG names should always be lowercase
-author: <Cody_G>
+author: Cody_G
 description: Brief report of completing the project.
 ---
 
