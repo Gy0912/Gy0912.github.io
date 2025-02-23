@@ -32,3 +32,6 @@ Source code is public in my repo called simple-TankWar. We also wrote a simple p
 
 
 This project is scored by my AI teacher, but I have no access to know our score.
+
+
+If you have any questions about this project, just leave your comments or contact me. I will reply soon.

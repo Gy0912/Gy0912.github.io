@@ -23,3 +23,6 @@ I completed this project with my friend SenLee1, and the following table is the 
 | Project 6 |       99.7        |    All passed     | Dec.30, 2024 |
 
 The source code has been uploaded to my repo named CS131, and if you want to learn it I have attached the ppts and project requirements in my repo. If necessary, please take it by yourself, but **please do not use it for your own academic courses**.
+
+
+If you have any questions about this project, just leave your comments or contact me. I will reply soon.
