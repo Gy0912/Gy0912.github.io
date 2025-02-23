@@ -3,7 +3,7 @@ title: Welcome!
 date: 2025-02-22 18:00:00 +0800
 categories: [Blog]
 tags: [Intro]     # TAG names should always be lowercase
-author: <GuYi>
+author: Cody_G
 description: Short intro of this website.
 ---
 

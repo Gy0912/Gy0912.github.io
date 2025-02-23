@@ -3,7 +3,7 @@ title: Complete PintOS.
 date: 2025-01-04 23:00:00 +0800
 categories: [Blog]
 tags: [Proj, Finished]     # TAG names should always be lowercase
-author: <GuYi>
+author: Cody_G
 description: Brief report of completing the project.
 ---
 

@@ -3,7 +3,7 @@ title: My own project start.
 date: 2025-02-13 15:00:00 +0800
 categories: [Blog]
 tags: [Proj, Unfinished]     # TAG names should always be lowercase
-author: <GuYi>
+author: Cody_G
 description: Simple intro of what I'm going to focus on.
 ---
 
