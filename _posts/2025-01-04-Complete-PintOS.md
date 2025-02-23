@@ -10,7 +10,7 @@ description: Brief report of completing the project.
 PintOS is a small teaching operating system designed for educational purposes, and it is widely used in university operating systems courses to teach key OS concepts such as thread management, scheduling, virtual memory, and file systems, which is also four parts of the whole project.
 
 
-I completed this project with my friend SenLi, and the following table is the score we get.
+I completed this project with my friend SenLee1, and the following table is the score we get.
 
 
 |  Project  | Score(out of 100) | Offline testcases |   Due time   |

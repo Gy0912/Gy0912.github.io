@@ -10,7 +10,7 @@ description: Brief report of completing the project.
 Most of the materials and assignments for this project have been adapted, with permission, from the U.Penn’s CIS341 by Steve Zdancewic, which cannot be found now. The whole project is divided into 6 parts, which are hellocaml for briefly learn how to write with Ocaml, X86lite, LLVMlite, Oat v1 compiler, Oat v2 - Typechecking Structs, Function Pointers, and Subtyping and finally Dataflow Analysis and Optimizations.
 
 
-I completed this project with my friend SenLi, and the following table is the score we get.
+I completed this project with my friend SenLee1, and the following table is the score we get.
 
 
 |  Project  | Score(out of 100) | Offline testcases |   Due time   |
