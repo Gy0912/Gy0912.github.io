@@ -12,7 +12,7 @@ order: 4
 [Download my resume](../assets/lib/resume.pdf)
 
 ## 🎓 Education  
-I am a junior student at ShanghaiTech University, pursuing a degree in Computer Science. My current GPA is **3.29**, with a major GPA of **3.53**. I have achieved **A+** in **Operating Systems** and **Algorithms**, demonstrating strong foundational knowledge in computer science.  
+I am a junior student at ShanghaiTech University, pursuing a degree in Computer Science. My current GPA is **3.29**, with a major GPA of **3.53**. I have achieved **A+** in **Operating Systems** and **A** in **Algorithms**, demonstrating strong foundational knowledge in computer science.  
 
 ## 💻 Technical Skills  
 - **Programming Languages**: Python, C, C++, OCaml  
